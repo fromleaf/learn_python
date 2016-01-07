@@ -1,0 +1,179 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Animal	ex43.py	/^class Animal(object):$/;"	c
+Cat	ex43.py	/^class Cat(Animal):$/;"	c
+CentralConrridor	ex43_classes.py	/^class CentralConrridor(Scene):$/;"	c
+CentralConrridor	ex43_game.py	/^class CentralConrridor(Scene):$/;"	c
+Death	ex43_classes.py	/^class Death(Scene):$/;"	c
+Death	ex43_game.py	/^class Death(Scene):$/;"	c
+Dog	ex43.py	/^class Dog(Animal):$/;"	c
+Employee	ex43.py	/^class Employee(Person):$/;"	c
+Engine	ex43_classes.py	/^class Engine(object):$/;"	c
+Engine	ex43_game.py	/^class Engine(object):$/;"	c
+EscapePod	ex43_classes.py	/^class EscapePod(Scene):$/;"	c
+EscapePod	ex43_game.py	/^class EscapePod(Scene):$/;"	c
+Fish	ex43.py	/^class Fish(object):$/;"	c
+Halibut	ex43.py	/^class Halibut(Fish):$/;"	c
+LaserWeaponArmory	ex43_classes.py	/^class LaserWeaponArmory(Scene):$/;"	c
+LaserWeaponArmory	ex43_game.py	/^class LaserWeaponArmory(Scene):$/;"	c
+Map	ex43_classes.py	/^class Map(object):$/;"	c
+Map	ex43_game.py	/^class Map(object):$/;"	c
+PHRASES	oop_test.py	/^PHRASES = {$/;"	v
+PHRASES_FIRST	oop_test.py	/^	PHRASES_FIRST = False$/;"	v
+PHRASES_FIRST	oop_test.py	/^	PHRASES_FIRST = True$/;"	v
+Person	ex43.py	/^class Person(object):$/;"	c
+Salmon	ex43.py	/^class Salmon(Fish):$/;"	c
+Scene	ex43_classes.py	/^class Scene(object):$/;"	c
+Scene	ex43_game.py	/^class Scene(object):$/;"	c
+Song	ex40.py	/^class Song(object):$/;"	c
+TheBridge	ex43_classes.py	/^class TheBridge(Scene):$/;"	c
+TheBridge	ex43_game.py	/^class TheBridge(Scene):$/;"	c
+WORDS	oop_test.py	/^WORDS = []$/;"	v
+WORD_URL	oop_test.py	/^WORD_URL = "http:\/\/learncodethehardway.org\/words.txt"$/;"	v
+__init__	ex40.py	/^	def __init__(self, lyrics):$/;"	m	class:Song
+__init__	ex43.py	/^	def __init__(self, name):$/;"	m	class:Cat
+__init__	ex43.py	/^	def __init__(self, name):$/;"	m	class:Dog
+__init__	ex43.py	/^	def __init__(self, name):$/;"	m	class:Person
+__init__	ex43.py	/^	def __init__(self, name, salary):$/;"	m	class:Employee
+__init__	ex43_classes.py	/^	def __init__(self, start_scene):$/;"	m	class:Map
+__init__	ex43_classes.py	/^    def __init__(self, scene_map):$/;"	m	class:Engine
+__init__	ex43_game.py	/^	def __init__(self, scene_map):$/;"	m	class:Engine
+__init__	ex43_game.py	/^	def __init__(self, start_scene):$/;"	m	class:Map
+a_game	ex43_classes.py	/^a_game = Engine(a_map)$/;"	v
+a_game	ex43_game.py	/^a_game = Engine(a_map)$/;"	v
+a_map	ex43_classes.py	/^a_map = Map('central_corridor')$/;"	v
+a_map	ex43_game.py	/^a_map = Map('central_corridor')$/;"	v
+add	ex21.py	/^def add(a, b):$/;"	f
+age	ex11.py	/^age = raw_input()$/;"	v
+age	ex12.py	/^age = raw_input("How old are you?")$/;"	v
+age	ex21.py	/^age = add(30, 5)$/;"	v
+amount_of_cheese	ex19.py	/^amount_of_cheese = 10$/;"	v
+amount_of_crackers	ex19.py	/^amount_of_crackers = 50$/;"	v
+argv	ex13.py	/^from sys import argv$/;"	i
+argv	ex14.py	/^from sys import argv$/;"	i
+argv	ex15.py	/^from sys import argv$/;"	i
+argv	ex16.py	/^from sys import argv$/;"	i
+argv	ex17.py	/^from sys import argv$/;"	i
+argv	ex20.py	/^from sys import argv$/;"	i
+backslash_cat	ex10.py	/^backslash_cat = "I'm \\\\ c \\\\ at."$/;"	v
+bear_room	ex35.py	/^def bear_room():$/;"	f
+break_words	ex25.py	/^def break_words(stuff):$/;"	f
+bulls_on_parade	ex40.py	/^bulls_on_parade = Song(["Take a pocket that is full of sheel",$/;"	v
+cats	ex29.py	/^cats = 30$/;"	v
+change	ex32.py	/^change = [1, '10 cent', 2, '100 cent', 3, '500 cent']$/;"	v
+cheese_and_cracker	ex19.py	/^def cheese_and_cracker(cheese_count, boxes_of_crackers):$/;"	f
+cities	ex39.py	/^cities = {$/;"	v
+city	ex39.py	/^city = cities.get('제주', '없습니다')$/;"	v
+computer	ex14.py	/^computer = raw_input(prompt)$/;"	v
+convert	oop_test.py	/^def convert(snippet, phrase):$/;"	f
+crouse	ex43.py	/^crouse = Salmon()$/;"	v
+cthulhu_room	ex35.py	/^def cthulhu_room():$/;"	f
+current_file	ex20.py	/^current_file = open(input_file)$/;"	v
+current_line	ex20.py	/^current_line = 1$/;"	v
+current_line	ex20.py	/^current_line = current_line + 1$/;"	v
+dead	ex35.py	/^def dead(why):$/;"	f
+divide	ex21.py	/^def divide(a, b):$/;"	f
+dogs	ex29.py	/^dogs = 15$/;"	v
+elements	ex32.py	/^elements = []$/;"	v
+end1	ex7.py	/^end1 = "delicious"$/;"	v
+end2	ex7.py	/^end2 = "cheese"$/;"	v
+end3	ex7.py	/^end3 = "hambuger"$/;"	v
+end4	ex7.py	/^end4 = "and"$/;"	v
+end5	ex7.py	/^end5 = "french"$/;"	v
+end6	ex7.py	/^end6 = "fry"$/;"	v
+enter	ex43_classes.py	/^	def enter(self):$/;"	m	class:CentralConrridor
+enter	ex43_classes.py	/^	def enter(self):$/;"	m	class:Death
+enter	ex43_classes.py	/^	def enter(self):$/;"	m	class:EscapePod
+enter	ex43_classes.py	/^	def enter(self):$/;"	m	class:LaserWeaponArmory
+enter	ex43_classes.py	/^	def enter(self):$/;"	m	class:Scene
+enter	ex43_classes.py	/^	def enter(self):$/;"	m	class:TheBridge
+enter	ex43_game.py	/^	def enter(self):$/;"	m	class:CentralConrridor
+enter	ex43_game.py	/^	def enter(self):$/;"	m	class:Death
+enter	ex43_game.py	/^	def enter(self):$/;"	m	class:EscapePod
+enter	ex43_game.py	/^	def enter(self):$/;"	m	class:LaserWeaponArmory
+enter	ex43_game.py	/^	def enter(self):$/;"	m	class:Scene
+enter	ex43_game.py	/^	def enter(self):$/;"	m	class:TheBridge
+exists	ex17.py	/^from os.path import exists$/;"	i
+exit	ex35.py	/^from sys import exit$/;"	i
+exit	ex43_game.py	/^from sys import exit$/;"	i
+five	ex24.py	/^five = 10 - 2 + 3 - 6$/;"	v
+flipper	ex43.py	/^flipper = Fish()$/;"	v
+formatter	ex8.py	/^formatter = "%s %s %s %s"$/;"	v
+formatter2	ex8.py	/^formatter2 = "%r %r %r %r"$/;"	v
+frank	ex43.py	/^frank = Employee("Frank", 120000)$/;"	v
+fruits	ex32.py	/^fruits = ['apple', 'mandarin', 'peer', 'apricot']$/;"	v
+gold_room	ex35.py	/^def gold_room():$/;"	f
+happy_bday	ex40.py	/^happy_bday = Song(["Happy Birthday.",$/;"	v
+harry	ex43.py	/^harry = Halibut()$/;"	v
+height	ex11.py	/^height = raw_input()$/;"	v
+height	ex12.py	/^height = raw_input("How tall are you?")$/;"	v
+height	ex21.py	/^height = subtract(78, 4)$/;"	v
+in_file	ex17.py	/^in_file = open(from_file)$/;"	v
+indata	ex17.py	/^indata = in_file.read()$/;"	v
+input_first	ex13.py	/^input_first = input(first)$/;"	v
+iq	ex21.py	/^iq = divide(100, 2)$/;"	v
+likes	ex14.py	/^likes = raw_input(prompt)$/;"	v
+line1	ex16.py	/^line1 = raw_input("the 1 line: ")$/;"	v
+line2	ex16.py	/^line2 = raw_input("the 2 line: ")$/;"	v
+line3	ex16.py	/^line3 = raw_input("the 3 line: ")$/;"	v
+lives	ex14.py	/^lives = raw_input(prompt)$/;"	v
+mary	ex43.py	/^mary = Person("Mary")$/;"	v
+more_stuff	ex38.py	/^more_stuff = ["Day", "Night", "Song", "Frisbee", "Corn", "Banana", "Girl", "Boy"]$/;"	v
+multiply	ex21.py	/^def multiply(a, b):$/;"	f
+next_one	ex38.py	/^	next_one = more_stuff.pop()$/;"	v
+next_scene	ex43_classes.py	/^	def next_scene(self, scene_name):$/;"	m	class:Map
+next_scene	ex43_game.py	/^	def next_scene(self, scene_name):$/;"	m	class:Map
+opening_scene	ex43_classes.py	/^	def opening_scene(self):$/;"	m	class:Map
+opening_scene	ex43_game.py	/^	def opening_scene(self):$/;"	m	class:Map
+out_file	ex17.py	/^out_file = open(to_file, 'w')$/;"	v
+people	ex29.py	/^people = 20$/;"	v
+persian_cat	ex10.py	/^persian_cat = "I'm \\n separate."$/;"	v
+phrase	oop_test.py	/^			phrase = PHRASES[snippet]$/;"	v
+play	ex43_classes.py	/^	def play(self):$/;"	m	class:Engine
+play	ex43_game.py	/^	def play(self):$/;"	m	class:Engine
+print_a_line	ex20.py	/^def print_a_line(line_count, f):$/;"	f
+print_all	ex20.py	/^def print_all(f):$/;"	f
+print_first_and_last	ex25.py	/^def print_first_and_last(sentence):$/;"	f
+print_first_and_last_sorted	ex25.py	/^def print_first_and_last_sorted(sentence):$/;"	f
+print_first_word	ex25.py	/^def print_first_word(words):$/;"	f
+print_last_word	ex25.py	/^def print_last_word(words):$/;"	f
+print_none	ex18.py	/^def print_none():$/;"	f
+print_one	ex18.py	/^def print_one(arg1):$/;"	f
+print_two	ex18.py	/^def print_two(*args):$/;"	f
+print_two_again	ex18.py	/^def print_two_again(arg1, arg2):$/;"	f
+prompt	ex14.py	/^prompt = '> '$/;"	v
+quips	ex43_game.py	/^	quips = [$/;"	v	class:Death
+randint	ex43_game.py	/^from random import randint$/;"	i
+random	oop_test.py	/^import random$/;"	i
+rewind	ex20.py	/^def rewind(f):$/;"	f
+rewind_file	ex20.py	/^rewind_file = current_file$/;"	v
+rover	ex43.py	/^rover = Dog("Rover")$/;"	v
+satan	ex43.py	/^satan = Cat("Satan")$/;"	v
+scenes	ex43_game.py	/^	scenes = {$/;"	v	class:Map
+secret_formula	ex24.py	/^def secret_formula(started):$/;"	f
+sing_me_a_song	ex40.py	/^	def sing_me_a_song(self):$/;"	m	class:Song
+snippets	oop_test.py	/^		snippets = PHRASES.keys()$/;"	v
+sort_sentence	ex25.py	/^def sort_sentence(sentence):$/;"	f
+sort_words	ex25.py	/^def sort_words(words):$/;"	f
+start	ex35.py	/^def start():$/;"	f
+start_point	ex24.py	/^start_point = 10000$/;"	v
+start_point	ex24.py	/^start_point = start_point \/ 10$/;"	v
+state	ex39.py	/^state = states.get('제주도', None)$/;"	v
+states	ex39.py	/^states = {$/;"	v
+stuff	ex38.py	/^stuff = ten_things.split(' ')$/;"	v
+subtract	ex21.py	/^def subtract(a, b):$/;"	f
+sys	oop_test.py	/^import sys$/;"	i
+tabby_cat	ex10.py	/^tabby_cat = "\\tI will become a tab."$/;"	v
+target	ex16.py	/^target = open(filename, 'w')$/;"	v
+ten_things	ex38.py	/^ten_things = "Apples Oranges Crows Telephone Light Sugar"$/;"	v
+the_count	ex32.py	/^the_count = [1, 2, 3, 4, 5]$/;"	v
+txt	ex15.py	/^txt = open(filename)$/;"	v
+urlopen	oop_test.py	/^from urllib import urlopen$/;"	i
+weight	ex11.py	/^weight = raw_input()$/;"	v
+weight	ex12.py	/^weight = raw_input("How weight are you?")$/;"	v
+weight	ex21.py	/^weight = multiply(90, 2)$/;"	v
+what	ex21.py	/^what = add(age, subtract(height, multiply(weight, divide(iq, 2))))$/;"	v
